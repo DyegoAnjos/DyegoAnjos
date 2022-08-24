@@ -1,19 +1,41 @@
-## Oi gente👋
-Eu sou o Dyego dos Anjos, tenho 15 anos, estou no primeiro ano do ensino médio técnico em desenvolvimento de sistemas do Colégio Pedro II.
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DyegoAnjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyegoAnjos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"">
-          
-</div>
-  
+### Oie devs 👋
+
+Eu sou o Dyego dos Anjos, estou no primeiro ano do ensino médio técnico em desenvolvimento de sistemas do Colégio Pedro II.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+struct DyegoAnjos{
+ char name[25] = "Dyego dos Anjos Cordeiro";
+ int idade = 15;
+ char acknowledgements[10] = "Estudante Front-end";
  
+ char primarySkillset[10] = "ALGUMAS HABILIDADES";
+ char languages[5][10] = {"HTML5", "CSS3", "JavaScript", "C"};
+};
+struct DyegoAnjos perfil;
+```
+
+## **Linguagens:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/DyegoAnjos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyegoAnjos&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/DyegoAnjos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DyegoAnjos&show_icons=true&theme=dracula&line_height=27" alt="DyegoAnjos github stats"/>
+</a>
+
   ##
  
 <div> 
