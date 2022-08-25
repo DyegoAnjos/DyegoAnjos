@@ -9,7 +9,7 @@ Eu sou o Dyego dos Anjos, estou no primeiro ano do ensino médio técnico em des
 ```kotlin
 struct DyegoAnjos{
  char name[25] = "Dyego dos Anjos Cordeiro";
- int idade = 15;
+ int age = 15;
  char acknowledgements[10] = "Estudante Front-end";
  
  char primarySkillset[10] = "ALGUMAS HABILIDADES";
