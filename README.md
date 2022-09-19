@@ -1,6 +1,8 @@
 ### Oie devs 👋
 
-Eu sou o Dyego dos Anjos, estou no primeiro ano do ensino médio técnico em desenvolvimento de sistemas do Colégio Pedro II.
+Meu nome é Dyego dos Anjos mas sou conhecido como Hades. Tenho 15 anos e sou estudande do técnico de desenvolvimento de sistemas no Colégio Pedro II estou atualmente no primeiro ano do ensino médio.
+Tenho uma paixão por programação amo a área de desenvolvimento web e também tenho uma quedinha por programar em C.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -8,12 +10,12 @@ Eu sou o Dyego dos Anjos, estou no primeiro ano do ensino médio técnico em des
 
 ```kotlin
 struct DyegoAnjos{
- char name[25] = "Dyego dos Anjos Cordeiro";
- int age = 15;
- char acknowledgements[10] = "Estudante Front-end";
+ char nome[25] = "Dyego dos Anjos Cordeiro";
+ int idade = 15;
+ char area[50] = "Estudante Front-end e estudante de Programação";
  
- char primarySkillset[10] = "ALGUMAS HABILIDADES";
- char languages[5][10] = {"HTML5", "CSS3", "JavaScript", "C"};
+ char habilidades[10] = "Front-end e desenvolvedor em C";
+ char languages[5][10] = {"HTML5", "CSS3", "JavaScript", "c", "c++"};
 };
 struct DyegoAnjos perfil;
 ```
