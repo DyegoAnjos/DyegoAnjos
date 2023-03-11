@@ -1,7 +1,7 @@
 ### Oie devs 👋
 
 Meu nome é Dyego dos Anjos mas sou conhecido como Hades. Tenho 15 anos e sou estudande do técnico de desenvolvimento de sistemas no Colégio Pedro II estou atualmente no primeiro ano do ensino médio.
-Tenho uma paixão por programação amo a área de desenvolvimento web e também tenho uma quedinha por programar em C.
+Tenho uma paixão por programação, amo a área de desenvolvimento web e a área de desenvolvimento de software
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
