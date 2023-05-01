@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Meu nome é Dyego dos Anjos mas sou conhecido como Hades. Tenho 15 anos e sou estudande do técnico de desenvolvimento de sistemas no Colégio Pedro II estou atualmente no primeiro ano do ensino médio.
+Meu nome é Dyego dos Anjos mas sou conhecido como Hades. Tenho 15 anos e sou estudande do técnico de desenvolvimento de sistemas no Colégio Pedro II estou atualmente no segundo ano do ensino médio.
 Tenho uma paixão por programação, amo a área de desenvolvimento web e a área de desenvolvimento de software
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
