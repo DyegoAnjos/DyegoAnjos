@@ -14,8 +14,8 @@ struct DyegoAnjos{
  int idade = 15;
  char area[50] = "Estudante Front-end e estudante de Programação";
  
- char habilidades[10] = "Front-end e desenvolvedor em C";
- char languages[5][10] = {"HTML5", "CSS3", "JavaScript", "c", "c++"};
+ char habilidades[10] = "Front-end e desenvolvimento de Software";
+ char languages[5][10] = {"HTML5", "CSS3", "JavaScript", "c", "c++", "C#"};
 };
 struct DyegoAnjos perfil;
 ```
