@@ -1,7 +1,7 @@
 ### Oie devs 👋
 
-Meu nome é Dyego dos Anjos mas sou conhecido como Hades. Tenho 16 anos e sou estudande do técnico de desenvolvimento de sistemas no Colégio Pedro II estou atualmente no segundo ano do ensino médio.
-Tenho uma paixão por programação, amo a área de desenvolvimento web e a área de desenvolvimento de software
+Meu nome é Dyego dos Anjos, mas sou conhecido como Hades. Tenho 16 anos e sou estudante do técnico de desenvolvimento de sistemas no Colégio Pedro II. Atualmente, estou no segundo ano do ensino médio.
+Tenho uma paixão pela programação e amo a área de desenvolvimento web, assim como a área de desenvolvimento de software e estou estudando desenolvimeto de jogos na unity.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -9,23 +9,29 @@ Tenho uma paixão por programação, amo a área de desenvolvimento web e a áre
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-struct DyegoAnjos{
- char nome[25] = "Dyego dos Anjos Cordeiro";
- int idade = 15;
- char area[50] = "Estudante Front-end e estudante de Programação";
- 
- char habilidades[10] = "Front-end e desenvolvimento de Software";
- char languages[5][10] = {"HTML5", "CSS3", "JavaScript", "c", "c++", "C#"};
+namespace README
+{
+    internal class Dyego
+    {
+       public string Nome = "Dyego dos Anjos Cordeiro";
+       public int Idade = 16;
+       public string Area = "Estudante em: Front-end, desenvolvimento de software e desenvolvimento de jogos.";
+       public string Habilidades = "Front-end, desenvolvimento de Software e Desenvolvimento de jogos"
+       public string[] Linguagens = new string[7] {"HTML5", "CSS3", "JavaScript", "C#"}
+    }
+
 };
-struct DyegoAnjos perfil;
+
 ```
 
 ## **Linguagens:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><code>
+          
+
 
 
 ## **GitHub Estatísticas**
