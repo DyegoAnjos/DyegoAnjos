@@ -1,36 +1,7 @@
 ### Oie devs 👋
 
-Meu nome é Dyego dos Anjos, mas sou conhecido como Hades. Tenho 16 anos e sou estudante do técnico de desenvolvimento de sistemas no Colégio Pedro II. Atualmente, estou no segundo ano do ensino médio.
-Tenho uma paixão pela programação e amo a área de desenvolvimento web, assim como a área de desenvolvimento de software e estou estudando desenolvimeto de jogos na unity.
+Olá! Sou o Dyego, um entusiasta de programação e atualmente estou no terceiro ano do ensino médio técnico em desenvolvimento de sistemas no Colégio Pedro Segundo. Com apenas 16 anos, tenho uma paixão ardente por aprender e compartilhar conhecimento na área de tecnologia. Estou sempre em busca de desafios que me permitam expandir minhas habilidades e contribuir para projetos inovadores. Vamos conectar e explorar juntos o mundo da programação!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-namespace README
-{
-    internal class Dyego
-    {
-       public string Nome = "Dyego dos Anjos Cordeiro";
-       public int Idade = 16;
-       public string Area = "Estudante em: Front-end, desenvolvimento de software e desenvolvimento de jogos.";
-       public string Habilidades = "Front-end, desenvolvimento de Software e Desenvolvimento de jogos"
-       public string[] Linguagens = new string[7] {"HTML5", "CSS3", "JavaScript", "C#"}
-    }
-
-};
-
-```
-
-## **Linguagens:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><code>
-          
 
 
 
