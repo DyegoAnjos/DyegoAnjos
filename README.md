@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Olá! Sou o Dyego, um entusiasta de programação e atualmente estou no terceiro ano do ensino médio técnico em desenvolvimento de sistemas no Colégio Pedro Segundo. Com apenas 16 anos, tenho uma paixão ardente por aprender e compartilhar conhecimento na área de tecnologia. Estou sempre em busca de desafios que me permitam expandir minhas habilidades e contribuir para projetos inovadores. Vamos conectar e explorar juntos o mundo da programação!
+Olá! Sou o Dyego, um entusiasta de programação, atualmente no terceiro ano do ensino médio técnico em Desenvolvimento de Sistemas no Colégio Pedro II. Com apenas 17 anos, tenho uma paixão ardente por aprender e compartilhar conhecimento na área de tecnologia. Estou sempre em busca de desafios que me permitam expandir minhas habilidades e contribuir para projetos inovadores. Vamos conectar e explorar juntos o mundo da programação!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
