@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Olá! Sou o Dyego, faço técnico em Desenvolvimento de Sistemas no Colégio Pedro II e tenho uma paixão pelo mundo dos códigos. Estou sempre em busca de desafios que me permitam expandir minhas habilidades e escrever "Hello World" no maior número de linguagens que eu puder.
+Olá! Sou o Dyego, fiz técino em Desenvolvimento de Sistemas no Colégio Pedro II e atualmente faço Bacharelado em Siste de Informação na Unirio. Tenho uma paixão pelo mundo dos códigos e pela área da tecnologia.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
