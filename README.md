@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Olá! Sou o Dyego, fiz técino em Desenvolvimento de Sistemas no Colégio Pedro II e atualmente faço Bacharelado em Siste de Informação na Unirio. Tenho uma paixão pelo mundo dos códigos e pela área da tecnologia.
+Meu nome é Dyego. Atualmente, estou no segundo período do curso de Sistemas de Informação na UNIRIO e concluí o ensino médio técnico em Desenvolvimento de Sistemas pelo Colégio Pedro II. Sou apaixonado por programação — com uma quedinha especial pela área de Dados.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
